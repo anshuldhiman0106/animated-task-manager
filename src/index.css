@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+
+::selection{
+  color: rgb(247, 246, 246);
+}
+
+*{
+  box-sizing: border-box;
+
+}
+
+html,body{
+  width: 100%;
+  height: 100%;
+}

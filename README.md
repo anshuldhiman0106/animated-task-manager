@@ -22,5 +22,5 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/anshuldhiman0106/TODODRAG.git
+   git clone https://github.com/anshuldhiman0106/animated-task-manager.git
    cd animated-task-manager
